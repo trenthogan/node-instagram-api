@@ -1,0 +1,16 @@
+{
+  "name": "node-instagram-api",
+  "version": "1.0.0",
+  "description": "Returns json output of photo feed from instagram account as GET endpoint",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:trenthogan/node-instagram-api.git",
+    "type": "git"
+  },
+  "author": "Trent Hogan <trenthogan1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "instagram-api": "^1.0.3"
+  }
+}
