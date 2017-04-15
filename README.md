@@ -1,2 +1,2 @@
 # node-instagram-api
-Returns json output from instagram account as endpoint
+Returns json output of photo feed from instagram account as GET endpoint
